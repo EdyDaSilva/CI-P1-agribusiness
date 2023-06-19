@@ -1,4 +1,4 @@
-<img src="pictures/grainpic.PNG" alt="Header Image">
+<img src="images/grainpic.PNG" alt="Header Image">
 
 # Agribusines
 
