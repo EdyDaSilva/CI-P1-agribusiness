@@ -126,12 +126,35 @@ footer {
 }
 
 /* Media Query for mobile devices */
-@media (max-width: 767px) {
+@media screen and (max-width: 760px) {
 
-    .headpic,
+    .headpic {
+        width: 80%;
+        margin: 0 auto;
+    }
     h1,
-    nav,
-    .contactname {
+    nav, .globallist {
+        width: inherit;
         text-align: center;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 390px) {
+
+    .headpic {
+        width: 30%;
+        margin: 0 auto;
+    }
+    h1,
+    nav, .globallist {
+        width: inherit;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .scentered-image {
+        width: 20%;
+        height: 20%;
+        margin: 0 auto;
     }
 }
