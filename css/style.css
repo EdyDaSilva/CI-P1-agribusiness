@@ -97,6 +97,13 @@ li {
     text-decoration: underline;
 }
 
+.social-media {
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 100px;
+    letter-spacing: 35px;
+}
+
 /* footer settings */
 footer {
     background-color: lightblue;
