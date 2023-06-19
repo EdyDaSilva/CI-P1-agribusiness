@@ -1,8 +1,25 @@
 /* style image */
 .headpic {
+    height: 300px;
+    width: 100%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
+    /* zoom setting */
+    animation-name: headpic-zoom;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+/* zoom effect */
+@keyframes headpic-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.05);
+    }
 }
 
 /* center h1 */
