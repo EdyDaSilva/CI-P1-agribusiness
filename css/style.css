@@ -46,22 +46,26 @@ li {
     font-size: x-large;
 }
 
+/* anchor styling */
 a {
     text-decoration: none;
     color: #333;
     padding: 5px;
 }
 
+/* hover over effect */
 a:hover {
     background-color: #333;
     color: #fff;
 }
 
+/* paragraph styling */
 .paragragh-1 {
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* list items style */
 .list1 {
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
@@ -72,19 +76,20 @@ a:hover {
     margin-bottom: 30px;
 }
 
+.globallist {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .underline {
     text-decoration: underline;
 }
 
+/* footer settings */
 footer {
     background-color: lightblue;
     padding: 10px;
     text-align: center;
-}
-
-.globallist {
-    font-size: x-large;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 .globallist>ul>li {
@@ -95,6 +100,7 @@ footer {
     font-weight: bold;
 }
 
+/* contact */
 .contactname {
     font-size: x-large;
     text-align: center;
