@@ -131,18 +131,20 @@ footer {
 }
 
 .sign-form {
-    background-color: lightblue;
+    background-color: lightskyblue;
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
+    font-size: x-large;
 }
 
 .sign-label {
     margin-bottom: 10px;
+    font-size: x-large;
 }
 
-input[type="text"], input[type="email"], textarea {
+input[type="text"], input[type="email"], textarea {           
         width: 300px;
         padding: 5px;
         border-radius: 3px;
@@ -155,6 +157,7 @@ input[type="submit"] {
         border: none;
         cursor: pointer;
         border-radius: 3px;
+        margin-bottom: 20px;
     }
 
 /* Media Query for mobile devices */
