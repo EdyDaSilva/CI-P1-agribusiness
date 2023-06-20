@@ -125,6 +125,38 @@ footer {
     text-align: center;
 }
 
+/* form style */
+.form-heading {
+    text-align: center;
+}
+
+.sign-form {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.sign-label {
+    margin-bottom: 10px;
+}
+
+input[type="text"], input[type="email"], textarea {
+        width: 300px;
+        padding: 5px;
+        border-radius: 3px;
+}
+
+input[type="submit"] {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 3px;
+    }
+
 /* Media Query for mobile devices */
 @media screen and (max-width: 760px) {
 
