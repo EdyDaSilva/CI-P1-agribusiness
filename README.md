@@ -1,4 +1,4 @@
-<img src="images/grainpic.PNG" alt="Header Image">
+<img src="images/ami1.PNG" alt="site preview">
 
 # Agribusines
 
@@ -20,11 +20,13 @@ We just provide some information on agribusiness contrasting to the Brazilian ma
 interactive Front-End web
 
 Menu for page navigation
-<img src="images/pagesnav.PNG" alt="Header Image">
+<img src="images/pagesnav.PNG" alt="menu highlight">
  <br>
 
 ## Pictures ilustrating information
-<img src="images/valuechain.PNG" alt="Header Image">
+<img src="images/valuechain.PNG" alt="picture 1">
+Users can have a better understanding of related figures
+<br>
 
 ## Technologies used
 
@@ -39,16 +41,25 @@ Menu for page navigation
 W3C Markup Validation Service
 W3C CSS Validator (Jigsaw)
 
-<img src="images/w3cval.PNG" alt="Header Image">
+<img src="images/w3cval.PNG" alt="validation">
 <br>
 
-## Elements inspected including for mobile and tablet
-<img src="images/iphone12.PNG" alt="Header Image">
-<img src="images/surface.PNG" alt="Header Image">
+## Testing
+### Elements tested and inspected including for mobile and tablet on different browsers 
+<img src="images/iphone12.PNG" alt="iPhone 12">
+<img src="images/surface.PNG" alt="Surface">
 
-## Version Control
+## Bugs
+Pending SSL certificate from hosting 
+<img src="images/ssl.PNG" alt="SSL">
 
-GitHub for version control.
+## Performance
+Performane evaluation with lighthouse
+<img src="images/lighthouse.PNG" alt="performance">
+
+##  Deplyment and Version Control
+
+GitHub for version control and deployment.
 <br>
 
 ### Visit the project web page
