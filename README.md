@@ -17,8 +17,8 @@ Agribusiness is closely tied to international trade, with agricultural commoditi
 We just provide some information on agribusiness contrasting to the Brazilian market share on the global environment.
 
 ## Features
-interactive Front-End web
-
+<b>interactive Front-End web</b>
+<br>
 Menu for page navigation
 <img src="images/pagesnav.PNG" alt="menu highlight">
  <br>
@@ -50,7 +50,8 @@ W3C CSS Validator (Jigsaw)
 <img src="images/surface.PNG" alt="Surface">
 
 ## Bugs
-Pending SSL certificate from hosting 
+Pending SSL certificate from hosting
+<br> 
 <img src="images/ssl.PNG" alt="SSL">
 
 ## Performance
