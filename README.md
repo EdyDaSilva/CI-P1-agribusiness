@@ -67,7 +67,7 @@ GitHub for version control and deployment.
 https://edydasilva.github.io/CI-P1-agribusiness/
 
 
-## Media content
+## Media and data content
 
 Google and PWC
 
