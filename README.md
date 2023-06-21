@@ -23,7 +23,7 @@ Menu for page navigation
 <img src="images/pagesnav.PNG" alt="Header Image">
  <br>
 
-Pictures ilustrating information
+## Pictures ilustrating information
 <img src="images/valuechain.PNG" alt="Header Image">
 
 ## Technologies used
@@ -42,10 +42,18 @@ W3C CSS Validator (Jigsaw)
 <img src="images/w3cval.PNG" alt="Header Image">
 <br>
 
+## Elements inspected including for mobile and tablet
+<img src="images/iphone12.PNG" alt="Header Image">
+<img src="images/surface.PNG" alt="Header Image">
+
 ## Version Control
 
 GitHub for version control.
 <br>
+
+### Visit the project web page
+https://edydasilva.github.io/CI-P1-agribusiness/
+
 
 ## Media content
 
