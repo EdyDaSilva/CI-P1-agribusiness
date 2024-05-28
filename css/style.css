@@ -223,3 +223,14 @@ input[type="submit"]:hover {
         margin: 0 auto;
     }
 }
+
+/* Images size */
+img {
+    width: 100%;
+    height: auto;
+    max-width: 600px; /* Set your desired max-width */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
