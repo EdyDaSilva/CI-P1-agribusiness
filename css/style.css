@@ -1,11 +1,5 @@
 /* style image */
 .headpic {
-    /*height: 300px;
-    width: 100%;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    overflow: hidden;*/
     width: 100%;
     height: auto;
     max-width: 600px;
@@ -100,7 +94,7 @@ a:hover {
 /* paragraph styling */
 .paragragh-1 {
     font-size: 1.2em;
-    font-family: 'Arial', sans-serif;
+    font-family: "Arial", sans-serif;
     color: #333;
     margin: 20px;
     line-height: 1.6;
@@ -109,7 +103,7 @@ a:hover {
 /* list items style */
 .list1 {
     font-size: 1.2em;
-    font-family: 'Arial', sans-serif;
+    font-family: "Arial", sans-serif;
     color: #333;
     margin: 20px;
     line-height: 1.6;
@@ -152,53 +146,6 @@ footer {
     text-align: center;
 }
 
-/* form style */
-.form-heading {
-    text-align: center;
-    font-size: 1.5em;
-    margin-top: 20px;
-}
-
-.sign-form {
-    background-color: #f4f4f4;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 50px auto;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    max-width: 600px;
-}
-
-.sign-label {
-    margin-bottom: 10px;
-    font-size: 1.2em;
-}
-
-input[type="text"], input[type="email"], textarea {           
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    margin-bottom: 20px;
-    font-size: 1em;
-}
-
-input[type="submit"] {
-    padding: 10px 20px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-    font-size: 1em;
-}
-
-input[type="submit"]:hover {
-    background-color: #45a049;
-}
-
 /* Media Query for mobile devices */
 @media screen and (max-width: 760px) {
     .headpic {
@@ -206,7 +153,8 @@ input[type="submit"]:hover {
         margin: 0 auto;
     }
     h1,
-    nav, .globallist {
+    nav,
+    .globallist {
         width: 100%;
         text-align: center;
         margin: 0 auto;
@@ -219,19 +167,21 @@ input[type="submit"]:hover {
         margin: 0 auto;
     }
     h1,
-    nav, .globallist {
+    nav,
+    .globallist {
         width: 100%;
         text-align: center;
         margin: 0 auto;
     }
-    .scentered-image {
+
+    .centered-image {
         width: 100%;
         height: auto;
         margin: 0 auto;
     }
 }
 
-/* Images size */
+/* sidebar */
 img {
     width: 100%;
     height: auto;

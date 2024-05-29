@@ -1,6 +1,6 @@
-<img src="images/ami1.PNG" alt="site preview">
+<img src="images/ami3.PNG" alt="site preview">
 
-# Agribusines
+# Global Agribusines
 
 This website brings a brief insight in Global agribusiness.
 <br>
@@ -20,7 +20,7 @@ We just provide some information on agribusiness contrasting to the Brazilian ma
 <b>interactive Front-End web</b>
 <br>
 Menu for page navigation
-<img src="images/pagesnav.PNG" alt="menu highlight">
+<img src="images/pagesnav2.PNG" alt="menu highlight">
  <br>
 
 ## Pictures ilustrating information
@@ -46,18 +46,14 @@ W3C CSS Validator (Jigsaw)
 
 ## Testing
 ### Elements tested and inspected including for mobile and tablet on different browsers 
-<img src="images/iphone12.PNG" alt="iPhone 12">
-<img src="images/surface.PNG" alt="Surface">
+<img src="images/iphone12a.PNG" alt="iPhone 12">
+<img src="images/surface2.PNG" alt="Surface">
 
-## Bugs
-Pending SSL certificate from hosting
-<br> 
-<img src="images/ssl.PNG" alt="SSL">
-
+<!--
 ## Performance
 Performane evaluation with lighthouse
 <img src="images/lighthouse.PNG" alt="performance">
-
+-->
 ##  Deplyment and Version Control
 
 GitHub for version control and deployment.
