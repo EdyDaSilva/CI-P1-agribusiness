@@ -1,4 +1,4 @@
-<img src="images/ami3.PNG" alt="site preview">
+<img src="./assets/images/ami3.PNG" alt="site preview">
 
 # Global Agribusines
 
@@ -20,11 +20,11 @@ We just provide some information on agribusiness contrasting to the Brazilian ma
 <b>interactive Front-End web</b>
 <br>
 Menu for page navigation
-<img src="images/pagesnav2.PNG" alt="menu highlight">
+<img src="./assets/images/pagesnav2.PNG" alt="menu highlight">
  <br>
 
 ## Pictures ilustrating information
-<img src="images/valuechain.PNG" alt="picture 1">
+<img src="./assets/images/valuechain.PNG" alt="picture 1">
 Users can have a better understanding of related figures
 <br>
 
@@ -41,13 +41,13 @@ Users can have a better understanding of related figures
 W3C Markup Validation Service
 W3C CSS Validator (Jigsaw)
 
-<img src="images/w3cval.PNG" alt="validation">
+<img src="./assets/images/w3cval.PNG" alt="validation">
 <br>
 
 ## Testing
 ### Elements tested and inspected including for mobile and tablet on different browsers 
-<img src="images/iphone12a.PNG" alt="iPhone 12">
-<img src="images/surface2.PNG" alt="Surface">
+<img src="./assets/images/iphone12a.PNG" alt="iPhone 12">
+<img src="./assets/images/surface2.PNG" alt="Surface">
 
 <!--
 ## Performance
