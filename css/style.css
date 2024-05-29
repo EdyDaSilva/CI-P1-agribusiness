@@ -1,11 +1,17 @@
 /* style image */
 .headpic {
-    height: 300px;
+    /*height: 300px;
     width: 100%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    overflow: hidden;
+    overflow: hidden;*/
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     animation-name: headpic-zoom;
     animation-duration: 2s;
     animation-fill-mode: forwards;
@@ -37,6 +43,7 @@ nav {
     position: sticky;
     top: 0;
     z-index: 1000;
+    margin: 20px 0;
 }
 
 nav ul {
@@ -228,7 +235,7 @@ input[type="submit"]:hover {
 img {
     width: 100%;
     height: auto;
-    max-width: 600px; /* Set your desired max-width */
+    max-width: 600px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -241,11 +248,11 @@ img {
 }
 
 .main-content {
-    width: 65%;
+    width: 60%;
 }
 
 .sidebar {
-    width: 30%;
+    width: 35%;
     background-color: #f4f4f4;
     padding: 20px;
     border-radius: 8px;
